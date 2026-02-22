@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 </li>
 <br><br><br>
 </div>
-
-[![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirayuki39&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
